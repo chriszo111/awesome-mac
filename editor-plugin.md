@@ -77,7 +77,7 @@ Plugin
   * [Markdown PDF](https://github.com/yzane/vscode-markdown-pdf) - Convert Markdown file to pdf, html, png or jpeg file.
   * [Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug) - Debug your JavaScript code in the Google Chrome browser.
   * [ESlint](https://github.com/Microsoft/vscode-eslint) - Integrate eslint into VSCode.
-  * [TSLint](https://github.com/Microsoft/vscode-eslint) - Integrate eslint into VSCode.
+  * [TSLint](https://github.com/microsoft/vscode-tslint) - Integrate tslint into VSCode.
 
 * HTML
   * [Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag) - Auto Close Tag
@@ -106,6 +106,9 @@ Plugin
 * [ivim](https://github.com/kepbod/ivim) - An easy & highly customizable vim configuration.
 * [7th-vim](https://github.com/dofy/7th-vim) - Lightweight & Customizable Vim configuration options.
 
+## Cross Platform Plugins
+
+* [TabNine](https://tabnine.com) - Code autocompletion based on deep learning for all major IDEs / Text Editors for a variety of programming languages and syntax extensions (like JSX)
 
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
 [Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
