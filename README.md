@@ -24,65 +24,74 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 ## Contents
 
-+ [Reading and Writing Tools](#reading-and-writing-tools)
-    - [Text Editors](#text-editors)
-    - [Office](#office)
-    - [Markdown Tools](#markdown-tools-)
-    - [Note-taking](#note-taking)
-    - [Journaling](#journaling)
-    - [Ebooks](#ebooks)
-    - [RSS](#rss)
-    - [Others](#others)
-+ [Developer Tools](#developer-tools)
-    - [IDEs](#ides)
-    - [Developer Utilities](#developer-utilities)
-    - [Regular Expression Editors](#regular-expression-editors)
-    - [API Development and Analysis](#api-development-and-analysis)
-    - [Network Analysis](#network-analysis)
-    - [Command Line Tools](#command-line-tools-)
-    - [Frameworks for Hybrid Applications](#frameworks-for-hybrid-applications)
-    - [Version Control](#version-control)
-    - [Virtualization](#virtualization)
-    - [Databases](#databases)
-+ [Design and Product](#design-and-product)
-    - [Design Tools](#design-tools)
-    - [Prototyping and Mind-Mapping Tools](#prototyping-and-mind-mapping-tools)
-    - [Screencapturing Software](#screencapturing-software)
-    - [Other Tools](#other-tools)
-+ [Communication](#communication)
-    - [Collaboration and Team Tools](#collaboration-and-team-tools)
-    - [Email Clients](#email-clients)
-    - [File Sharing](#file-sharing)
-+ [Data Recovery Tools](#data-recovery-tools)
-+ [Audio and Video Tools](#audio-and-video-tools)
-+ [Download Management Tools](#download-management-tools)
-+ [Cloud Storage](#cloud-storage)
-+ [Input Methods](#input-methods)
-+ [Browsers](#browsers)
-+ [Translation Tools](#translation-tools)
-+ [Encryption](#encryption)
-+ [Security Tools](#security-tools)
-+ [Proxy and VPN Tools](#proxy-and-vpn-tools)
-+ [Utilities](#utilities)
-    - [Clipboard Tools](#clipboard-tools)
-    - [Menu Bar Tools](#menu-bar-tools)
-    - [File Organization Tools](#file-organization-tools)
-    - [General Tools](#general-tools)
-    - [To-Do Lists](#to-do-lists)
-    - [Productivity](#productivity)
-    - [Window Management](#window-management)
-    - [Password Management](#password-management)
-    - [Finder Tools](#finder-tools)
-    - [Quality of Life Improvements](#quality-of-life-improvements)
-    - [System Related Tools](#system-related-tools)
-+ [Gaming Software](#gaming-software)
-+ [Remote Login Software](#remote-login-software)
-+ [Social Networking](#social-networking)
-+ [QuickLook Plugins](#quickLook-plugins-)
-+ [Third Party App Markets](#third-party-app-markets)
-    - [Package Managers](#package-managers)
-+ [Mac App Download Sites](#mac-app-download-sites)
-+ [Podcasts](#podcasts)
+- [Awesome Mac](#awesome-mac)
+    - [Explanation](#explanation)
+  - [Contents](#contents)
+  - [Reading and Writing Tools](#reading-and-writing-tools)
+      - [Text Editors](#text-editors)
+      - [Office](#office)
+      - [Markdown Tools](#markdown-tools)
+      - [Note-taking](#note-taking)
+      - [Journaling](#journaling)
+      - [Ebooks](#ebooks)
+      - [RSS](#rss)
+      - [Others](#others)
+  - [Developer Tools](#developer-tools)
+      - [IDEs](#ides)
+      - [Developer Utilities](#developer-utilities)
+      - [Regular Expression Editors](#regular-expression-editors)
+      - [API Development and Analysis](#api-development-and-analysis)
+      - [Network Analysis](#network-analysis)
+      - [Command Line Tools](#command-line-tools)
+      - [Frameworks For Hybrid Applications](#frameworks-for-hybrid-applications)
+      - [Version Control](#version-control)
+      - [Virtualization](#virtualization)
+      - [Databases](#databases)
+  - [Design and Product](#design-and-product)
+      - [Design Tools](#design-tools)
+      - [Prototyping and Mind-Mapping Tools](#prototyping-and-mind-mapping-tools)
+      - [Screencapturing Software](#screencapturing-software)
+      - [Other Tools](#other-tools)
+  - [Communication](#communication)
+      - [Collaboration and Team Tools](#collaboration-and-team-tools)
+      - [Email Clients](#email-clients)
+      - [File Sharing](#file-sharing)
+  - [Data Recovery Tools](#data-recovery-tools)
+  - [Audio and Video Tools](#audio-and-video-tools)
+  - [Download Management Tools](#download-management-tools)
+  - [Cloud Storage](#cloud-storage)
+  - [Input Methods](#input-methods)
+  - [Browsers](#browsers)
+  - [Translation Tools](#translation-tools)
+  - [Encryption](#encryption)
+  - [Security Tools](#security-tools)
+  - [Proxy and VPN Tools](#proxy-and-vpn-tools)
+  - [Utilities](#utilities)
+      - [Clipboard Tools](#clipboard-tools)
+      - [Menu Bar Tools](#menu-bar-tools)
+      - [File Organization Tools](#file-organization-tools)
+      - [General Tools](#general-tools)
+      - [To-Do Lists](#to-do-lists)
+      - [Productivity](#productivity)
+      - [Window Management](#window-management)
+      - [Password Management](#password-management)
+      - [Finder Tools](#finder-tools)
+      - [Quality of Life Improvements](#quality-of-life-improvements)
+      - [System Related Tools](#system-related-tools)
+  - [Gaming Software](#gaming-software)
+  - [Remote Login Software](#remote-login-software)
+  - [Social Networking](#social-networking)
+  - [QuickLook Plugins](#quicklook-plugins)
+  - [Third Party App Markets](#third-party-app-markets)
+      - [Package Managers](#package-managers)
+  - [Mac App Download Sites](#mac-app-download-sites)
+    - [Genuine Sites](#genuine-sites)
+    - [Pirated software download site blacklist](#pirated-software-download-site-blacklist)
+  - [Podcasts](#podcasts)
+  - [Contributors](#contributors)
+  - [Backers](#backers)
+  - [Sponsors](#sponsors)
+  - [License](#license)
 
 ## Reading and Writing Tools
 
@@ -118,7 +127,9 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Microsoft Office](https://products.office.com/en-us/mac/microsoft-office-for-mac) Unmistakably Office, designed for Mac. [![App Store][app-store Icon]](https://www.apple.com/search/office?page=1&sel=accessories&f=software#!&f=software&fh=4649)
 * [SoftMaker Office](https://www.softmaker.com/en/softmaker-office) A complete office suite that aims for full compatibility with Microsoft Office documents
 
-#### Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+#### Markdown Tools
+
+> [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
 * [EME](https://github.com/egoist/eme) - Open-source Markdown editor with an interface like Chrome. ![Open-Source Software][OSS Icon]
 * [iA Writer](https://ia.net/writer/) - Writing app with an emphasis on simplicity and design.
@@ -285,7 +296,9 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Proxyman](https://proxyman.app) - Modern and intuitive HTTP debugging proxy for macOS. ![Freeware][Freeware Icon]
 * [Wireshark](https://www.wireshark.org) - The world’s foremost and widely-used network protocol analyzer. [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 
-#### Command Line Tools [![Awesome List][awesome-list Icon]](https://github.com/herrbischoff/awesome-macos-command-line#readme)
+#### Command Line Tools
+
+> [![Awesome List][awesome-list Icon]](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 
 * [ack](https://beyondgrep.com) - A tool like grep, optimized for programmers. ![Freeware][Freeware Icon]
 * [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
@@ -503,6 +516,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [APNGb](https://github.com/mancunianetz/APNGb) - PNG image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 * [Assetizr](https://assetizr.com) - Resizing images and optimising them for web and mobile applications.  ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/de/app/assetizr/id1449126727?l=en&mt=12)
 * [Couleurs](http://couleursapp.com) - Simple app for grabbing and tweaking the colors you see on your screen. ![Freeware][Freeware Icon]
+* [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/szTheory/exifcleaner)
 * [Frank DeLoupe](http://jumpzero.com/frank/) - Color-picking tool, supports Retina.
 * [HEIC Converter](https://sindresorhus.com/heic-converter) - Convert HEIC images to JPEG or PNG. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/heic-converter-to-jpeg-or-png/id1294126402)
 * [Iconset](https://iconset.io) - Free, cross-platform and fast SVG icon organizer and manager for Mac and Windows.
@@ -575,7 +589,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 * [Cyberduck](https://cyberduck.io) - Free FTP, SFTP, WebDAV, S3, Backblaze B2, Azure and OpenStack Swift browser. ![Freeware][Freeware Icon]
 * [Flow](http://fivedetails.com/flow/) - Award-winning, beautiful, fast, and reliable FTP + SFTP client.
-* [Fu](https://github.com/klesh/fu) - Upload images/files to remote server in exchange for url for file sharing. [![Open-Source Software][OSS Icon]](https://github.com/klesh/fu)
 * [Transmit](https://panic.com/transmit/) - Highly flexible and intuitive FTP client, supports SFTP, S3 and iDisk/WebDAV.
 
 ## Data Recovery Tools
@@ -816,6 +829,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicode Keyboard Layout Editor.
 * [xScope](http://xscopeapp.com/) - Powerful set of tools that are ideal for measuring, inspecting & testing on-screen graphics and layouts.
 * [Z](https://github.com/rupa/z) - Powerful way to navigate easily by typing only a string of directory name in terminal instead of typing exact location of director.
+* [Pomodoro Cycle](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
 
 #### Window Management
 
@@ -914,7 +928,9 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Chirper](https://arguiot.com/Chirper/) - A simple and tiny menu bar app for Buffer/Twitter that helps you tweet your thoughts without opening anything.
 * [Flume](https://flumeapp.com) - A beautiful Instagram experience for your Mac. The free version is good enough if you only want to do the browsing instead of posting.![Freeware][Freeware Icon]
 
-## QuickLook Plugins [![Awesome List][awesome-list Icon]](https://github.com/sindresorhus/quick-look-plugins#readme)
+## QuickLook Plugins
+
+> [![Awesome List][awesome-list Icon]](https://github.com/sindresorhus/quick-look-plugins#readme)
 
 * [QuicklookStephen](https://github.com/whomwah/qlstephen) - Preview plain text files without or with unknown file extension. such as README、INSTALL、Capfile、CHANGELOG...`brew cask install qlstephen`
 
