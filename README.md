@@ -1,4 +1,5 @@
-# Awesome Mac
+Awesome Mac
+----
 
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac?ref=badge_shield)
@@ -9,7 +10,7 @@ Collect premium software in various categories. Feel free to **star** and **fork
 
 Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-mac/issues). We love PRs :) Please take a look at the Contributing guidelines before opening one. Follow the [awesome](https://github.com/sindresorhus/awesome) list.
 
-### Explanation
+**Explanation**
 
 [English](README.md) | [中文](README-zh.md)
 
@@ -25,73 +26,72 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 ## Contents
 
 - [Awesome Mac](#awesome-mac)
-    - [Explanation](#explanation)
-  - [Contents](#contents)
-  - [Reading and Writing Tools](#reading-and-writing-tools)
-      - [Text Editors](#text-editors)
-      - [Office](#office)
-      - [Markdown Tools](#markdown-tools)
-      - [Note-taking](#note-taking)
-      - [Journaling](#journaling)
-      - [Ebooks](#ebooks)
-      - [RSS](#rss)
-      - [Others](#others)
-  - [Developer Tools](#developer-tools)
-      - [IDEs](#ides)
-      - [Developer Utilities](#developer-utilities)
-      - [Regular Expression Editors](#regular-expression-editors)
-      - [API Development and Analysis](#api-development-and-analysis)
-      - [Network Analysis](#network-analysis)
-      - [Command Line Tools](#command-line-tools)
-      - [Frameworks For Hybrid Applications](#frameworks-for-hybrid-applications)
-      - [Version Control](#version-control)
-      - [Virtualization](#virtualization)
-      - [Databases](#databases)
-  - [Design and Product](#design-and-product)
-      - [Design Tools](#design-tools)
-      - [Prototyping and Mind-Mapping Tools](#prototyping-and-mind-mapping-tools)
-      - [Screencapturing Software](#screencapturing-software)
-      - [Other Tools](#other-tools)
-  - [Communication](#communication)
-      - [Collaboration and Team Tools](#collaboration-and-team-tools)
-      - [Email Clients](#email-clients)
-      - [File Sharing](#file-sharing)
-  - [Data Recovery Tools](#data-recovery-tools)
-  - [Audio and Video Tools](#audio-and-video-tools)
-  - [Download Management Tools](#download-management-tools)
-  - [Cloud Storage](#cloud-storage)
-  - [Input Methods](#input-methods)
-  - [Browsers](#browsers)
-  - [Translation Tools](#translation-tools)
-  - [Encryption](#encryption)
-  - [Security Tools](#security-tools)
-  - [Proxy and VPN Tools](#proxy-and-vpn-tools)
-  - [Utilities](#utilities)
-      - [Clipboard Tools](#clipboard-tools)
-      - [Menu Bar Tools](#menu-bar-tools)
-      - [File Organization Tools](#file-organization-tools)
-      - [General Tools](#general-tools)
-      - [To-Do Lists](#to-do-lists)
-      - [Productivity](#productivity)
-      - [Window Management](#window-management)
-      - [Password Management](#password-management)
-      - [Finder Tools](#finder-tools)
-      - [Quality of Life Improvements](#quality-of-life-improvements)
-      - [System Related Tools](#system-related-tools)
-  - [Gaming Software](#gaming-software)
-  - [Remote Login Software](#remote-login-software)
-  - [Social Networking](#social-networking)
-  - [QuickLook Plugins](#quicklook-plugins)
-  - [Third Party App Markets](#third-party-app-markets)
-      - [Package Managers](#package-managers)
-  - [Mac App Download Sites](#mac-app-download-sites)
-    - [Genuine Sites](#genuine-sites)
-    - [Pirated software download site blacklist](#pirated-software-download-site-blacklist)
-  - [Podcasts](#podcasts)
-  - [Contributors](#contributors)
-  - [Backers](#backers)
-  - [Sponsors](#sponsors)
-  - [License](#license)
+- [Contents](#contents)
+- [Reading and Writing Tools](#reading-and-writing-tools)
+    - [Text Editors](#text-editors)
+    - [Office](#office)
+    - [Markdown Tools](#markdown-tools)
+    - [Note-taking](#note-taking)
+    - [Journaling](#journaling)
+    - [Ebooks](#ebooks)
+    - [RSS](#rss)
+    - [Others](#others)
+- [Developer Tools](#developer-tools)
+    - [IDEs](#ides)
+    - [Developer Utilities](#developer-utilities)
+    - [Regular Expression Editors](#regular-expression-editors)
+    - [API Development and Analysis](#api-development-and-analysis)
+    - [Network Analysis](#network-analysis)
+    - [Command Line Tools](#command-line-tools)
+    - [Frameworks For Hybrid Applications](#frameworks-for-hybrid-applications)
+    - [Version Control](#version-control)
+    - [Virtualization](#virtualization)
+    - [Databases](#databases)
+- [Design and Product](#design-and-product)
+    - [Design Tools](#design-tools)
+    - [Prototyping and Mind-Mapping Tools](#prototyping-and-mind-mapping-tools)
+    - [Screencapturing Software](#screencapturing-software)
+    - [Other Tools](#other-tools)
+- [Communication](#communication)
+    - [Collaboration and Team Tools](#collaboration-and-team-tools)
+    - [Email Clients](#email-clients)
+    - [File Sharing](#file-sharing)
+- [Data Recovery Tools](#data-recovery-tools)
+- [Audio and Video Tools](#audio-and-video-tools)
+- [Download Management Tools](#download-management-tools)
+- [Cloud Storage](#cloud-storage)
+- [Input Methods](#input-methods)
+- [Browsers](#browsers)
+- [Translation Tools](#translation-tools)
+- [Encryption](#encryption)
+- [Security Tools](#security-tools)
+- [Proxy and VPN Tools](#proxy-and-vpn-tools)
+- [Utilities](#utilities)
+    - [Clipboard Tools](#clipboard-tools)
+    - [Menu Bar Tools](#menu-bar-tools)
+    - [File Organization Tools](#file-organization-tools)
+    - [General Tools](#general-tools)
+    - [To-Do Lists](#to-do-lists)
+    - [Productivity](#productivity)
+    - [Window Management](#window-management)
+    - [Password Management](#password-management)
+    - [Finder Tools](#finder-tools)
+    - [Quality of Life Improvements](#quality-of-life-improvements)
+    - [System Related Tools](#system-related-tools)
+- [Gaming Software](#gaming-software)
+- [Remote Login Software](#remote-login-software)
+- [Social Networking](#social-networking)
+- [QuickLook Plugins](#quicklook-plugins)
+- [Third Party App Markets](#third-party-app-markets)
+    - [Package Managers](#package-managers)
+- [Mac App Download Sites](#mac-app-download-sites)
+  - [Genuine Sites](#genuine-sites)
+  - [Pirated software download site blacklist](#pirated-software-download-site-blacklist)
+- [Podcasts](#podcasts)
+- [Contributors](#contributors)
+- [Backers](#backers)
+- [Sponsors](#sponsors)
+- [License](#license)
 
 ## Reading and Writing Tools
 
@@ -181,7 +181,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 #### RSS
 
-* [Feeds 2](https://github.com/nfarina/feeds/) - Keep tabs on your favorite website and RSS feeds from your Mac's menubar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nfarina/feeds)
 * [Leaf](http://www.rockysandstudio.com/) - Amazing news reader dedicated to help you enjoy your daily news and easily manage your subscriptions.
 * [NetNewsWire](https://ranchero.com/netnewswire/) - It’s a free and open source feed reader for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brentsimmons/NetNewsWire)
 * [ReadKit](http://readkitapp.com/) - Mac read-later client supporting all major providers: Instapaper, Pocket and Readability. Even more, ReadKit is a full-featured RSS reader as well.
@@ -310,6 +309,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems. [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Good looking terminal emulator which mimics the old cathode display. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
 * [dark-mode](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [eureka](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Fish Shell](https://fishshell.com/) - Smart and user-friendly terminal, which is similar with zsh. [![Awesome List][awesome-list Icon]](https://github.com/fisherman/awesome-fish-shell#readme)
 * [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries. [![Open-Source Software][OSS Icon]](https://github.com/jhspetersson/fselect)
 * [Glances](https://github.com/nicolargo/glances) - Glances is a cross-platform curses-based system monitoring tool. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
@@ -368,6 +368,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Git Cola](https://git-cola.github.io/) - Powerful, Fast, Lightweight and Friendly Git GUI. For those caffeine adicting users. ![Open-Source Software][OSS Icon]
 * [Gitbar](https://github.com/Shikkic/gitbar) - Open-source，display Github contribution statistics on your menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Shikkic/gitbar)
 * [GitFinder](https://gitfinder.com/) - Fast and lightweight Git client for Mac with Finder integration. ![Freeware][Freeware Icon]
+* [Gitfox](https://www.gitfox.app) - Commit faster, improve your code quality with superior diffs - and look good doing it. [![App Store][app-store Icon]](https://apps.apple.com/app/gitfox/id1475511261)
 * [GitHub Desktop](https://desktop.github.com/) - The official GitHub GUI. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/desktop/desktop)
 * [GitKraken](https://www.gitkraken.com/) - The most popular Git GUI for Windows, Mac and Linux.
 * [GitX-dev](https://rowanj.github.io/gitx/) -  Fork of [Pieter's](https://github.com/pieter/gitx) nice git GUI for OS X. Includes branch/tag sidebar and various fixes. [![Open-Source Software][OSS Icon]](https://github.com/rowanj/gitx) ![Freeware][Freeware Icon]
@@ -757,6 +758,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Itsycal](https://www.mowglii.com/itsycal/) - Tiny calendar for your Mac's menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
 * [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jamieweavis/streaker)
 * [Vanilla](http://vanilla.matthewpalmer.net) - Hide menu bar icons on your Mac. ![Freeware][Freeware Icon]
+* [Jiffy](https://sindresorhus.com/jiffy) - Discover and share the best GIFs on GIPHY. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1502527999)
 
 #### File Organization Tools
 
@@ -783,6 +785,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Plash](https://sindresorhus.com/plash) - Make any website your desktop wallpaper. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Plash) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/plash/id1494023538)
 * [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - An OS X app that adds a global delay of 1 second to the Cmd-Q shortcut. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dteoh/SlowQuitApps)
 * [Torimori Sweeper](https://web.archive.org/web/20190515060747/https://coffeeboo.itch.io/sweeper) - MacOS app that lets you declutter your Downloads, one file at a time. [![Freeware][Freeware Icon]](https://coffeeboo.itch.io/sweeper)
+* [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) - The Open Source Tab Manager for Safari [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swift-open-source/UltraTabSaver)
 
 #### To-Do Lists
 
@@ -834,12 +837,12 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 #### Window Management
 
 * [Amethyst](http://ianyh.com/amethyst/) - Tiling window manager. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ianyh/Amethyst)
-* [chunkwm](https://github.com/koekeishiya/chunkwm) - Tiling window manager for macOS based on plugin architecture. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://koekeishiya.github.io/chunkwm/)
 * [contexts](https://contexts.co/) - Provides more power than the native Mac Dock. Especially when you have multiple screens, it can help you switch more quickly.
 * [Divvy](http://mizage.com/divvy/) - Window management at its finest with its amazing Divvy Grid system.
 * [Hummingbird](https://hummingbirdapp.site/) - Easily move and resize windows without mouse clicks, from anywhere within a window.
 * [Magnet](http://magnet.crowdcafe.com/) - Window manager that keeps your workspace organized. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/id441258766)
 * [Moom](http://manytricks.com/moom/) - Allows you to easily move and zoom windows, or to another display—using either the mouse or the keyboard.
+* [Rectangle](https://rectangleapp.com) - Window management app based on Spectacle, written in Swift. [![Open-Source Software][OSS Icon]](https://github.com/rxhanson/Rectangle) ![Freeware][Freeware Icon]
 * [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing window size and position in OSX. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - Powerful, keyboard-centric window management.
 * [Slate](https://github.com/jigish/slate) - Window management application similar to Divvy and SizeUp (except better and free!). (**Needs config file**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
