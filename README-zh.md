@@ -244,6 +244,7 @@ Awesome Mac
 * [trash](https://github.com/sindresorhus/trash) - 将文件和目录移动到废纸篓。 [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/trash)
 * [Upterm](https://github.com/railsware/upterm) - Upterm (之前是 Black Screen) 来自 21 世纪的强大终端。 ![Open-Source Software][OSS Icon]
 * [Zsh](https://www.zsh.org) - 一个专为交互式使用而设计的命令行 shell。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/unixorn/awesome-zsh-plugins#readme)
+* [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 一个由社区驱动,用于管理zsh配置的命令行工具。[![Open-Source Software][OSS Icon]](https://github.com/ohmyzsh/ohmyzsh) ![Freeware][Freeware Icon]
 
 ### 版本控制
 
@@ -555,6 +556,7 @@ Awesome Mac
 * [VLC](http://www.videolan.org/) - 开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件。[![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc) ![Freeware][Freeware Icon]
 * [VOX Player](https://vox.rocks/mac-music-player) - 免费全能音乐播放器，撸码之余听听歌是一种享受。![Freeware][Freeware Icon]
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - 解码/解码/转换/播放各种“无损”音频文件。[![Open-Source Software][OSS Icon]](https://code.google.com/archive/p/xld/source) ![Freeware][Freeware Icon]
+* [YPlayer](https://www.engineerdraft.com/yplayer/) - 一款能够本地实时生成字幕, 音视频文件转文字生成字幕, 录音转文字, 字幕翻译的多功能 App.
 
 ### 云音乐播放器
 
@@ -847,6 +849,7 @@ Awesome Mac
 
 ### 剪贴板工具
 
+* [CleanClip](https://cleanclip.cc) - 最简洁的剪贴板管理器。 ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - 一个剪贴板操作的管理器。[![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 * [Clipy](https://clipy-app.com/) - 基于 ClipMenu 继续开发的强大的剪切板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/Clipy/Clipy) ![Freeware][Freeware Icon]
 * [CopyQ](https://hluk.github.io/CopyQ) - 高级功能剪贴板管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
